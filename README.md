@@ -32,4 +32,4 @@ line 8 of 1775
 line 17 of 1775
 ```
 
-A function modules list can be generated from one of the [Geoff Chappell](https://www.geoffchappell.com/studies/windows/win32/kernel32/api/index.htm) up-to-date pages..
+A module's function list can be generated from one of the [Geoff Chappell](https://www.geoffchappell.com/studies/windows/win32/kernel32/api/index.htm) up-to-date pages.
