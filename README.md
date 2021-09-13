@@ -4,6 +4,8 @@ A pykd version-independent tool that finds and dump Control Flow Guard allowed f
 Given a list of module/symbols, it resolves it and by emulating ntdll!LdrpDispatchUserCallTarget logic, it can verify at runtime
 if a function is allowed from CFG bitmap table.
 
+Tested on Win10 21H1 - Should work on all previous releases as well.
+
 ## Requirements
 
 * PYKD Bootstrapper x64
