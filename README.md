@@ -1,4 +1,4 @@
-# CFGAllowedFunctions
+# CFG_Allowed_Functions
 A pykd version-independent tool that finds and dump Control Flow Guard allowed functions.
 
 Given a list of module/symbols, it resolves it and by emulating ntdll!LdrpDispatchUserCallTarget logic, it can verify at runtime
